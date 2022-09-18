@@ -3,7 +3,7 @@ I´m **Miguel Siesto** and I´m a frontend developer based in **Madrid**.
 
 After finishing my studies at the "Universidad Complutense de Madrid", I decided to form myself as a web developer. 
 
-- 🌱 I’m currently learning :
+## 🌱 I’m currently learning :
 - [React](https://es.reactjs.org/)
 - JavaScript / HTML /CSS
 
