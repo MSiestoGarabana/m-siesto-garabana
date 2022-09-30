@@ -6,11 +6,11 @@ After finishing my college studies at the "Universidad Complutense de Madrid", I
 I consider myself to be an organized and hardworking person, that loves to put on the extra effort in order to grow personally and proffesionally.
 I´m a big **JSX and React** fan , currently looking forward learning TypeScript.
 
-:star:My current skills:star:
--**React**(https://es.reactjs.org/)
--**JavaScript and JSX**
--**SASS & BootStrap**
--**Gatsby** for statically generating sites.
+### :star:My current skills:star:
+- **React**(https://es.reactjs.org/)
+- **JavaScript and JSX**
+- **SASS & BootStrap**
+- **Gatsby** for statically generating sites.
 
 <!---
 MSiestoGarabana/MSiestoGarabana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
