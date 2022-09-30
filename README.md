@@ -7,8 +7,8 @@ I consider myself to be an organized and hardworking person, that loves to put o
 I´m a big **JSX and React** fan , currently looking forward learning TypeScript.
 
 ### :star:My current skills:star:
-- **React**(https://es.reactjs.org/)
-- **JavaScript and JSX**
+- **React and Redux**(https://es.reactjs.org/)
+- **JavaScript(ES6)** & **JSX**
 - **SASS & BootStrap**
 - **Gatsby** for statically generating sites.
 
