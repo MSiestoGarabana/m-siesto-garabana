@@ -1,12 +1,16 @@
 ## 👋 HI THERE! 👋
 I´m **Miguel Siesto** and I´m a frontend developer based in **Madrid**.
 
-After finishing my studies at the "Universidad Complutense de Madrid", I decided to form myself as a web developer. 
+After finishing my college studies at the "Universidad Complutense de Madrid", I followed a good friend´s advise to try & learn the needed skills to become a Front-End Web Developer. I :heart_eyes::heart_eyes:loved the process!!:heart_eyes::heart_eyes: And most of all, loved realizing it´s actually possible to fully learn a new skill by myself.
 
-## 🌱 I’m currently learning :
-- [React](https://es.reactjs.org/)
-- JavaScript / HTML /CSS
+I consider myself to be an organized and hardworking person, that loves to put on the extra effort in order to grow personally and proffesionally.
+I´m a big **JSX and React** fan , currently looking forward learning TypeScript.
 
+:star:My current skills:star:
+-**React**(https://es.reactjs.org/)
+-**JavaScript and JSX**
+-**SASS & BootStrap**
+-**Gatsby** for statically generating sites.
 
 <!---
 MSiestoGarabana/MSiestoGarabana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
