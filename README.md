@@ -28,7 +28,7 @@ After much reflection I have chosen to dare and start my way in the world of web
 ### ⚡ My current frontend stack
 - React ❤️
 - Javascript & [Babel](https://babeljs.io/)
-- [SASS](https://sass-lang.com/) for styling
+- [SASS](https://sass-lang.com/) for styling & [BEM](https://getbem.com/) for class naming.
 - [create-react-app](https://create-react-app.dev/docs/getting-started) for a fast DX
 
 
