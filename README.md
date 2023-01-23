@@ -19,7 +19,7 @@ After much reflection I have chosen to dare and start my way in the world of web
 
 
 ### 🌱 I’m currently learning
--TypeScript
+- TypeScript
 - Basic CI/CD knowledge
 - Jest & React testing library
 - [Gatsby](https://www.gatsbyjs.com/) for SEO friendly static sites
