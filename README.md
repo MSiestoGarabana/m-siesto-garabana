@@ -1,7 +1,5 @@
 ## 👋🏼 Hi there! 
 
-<a href=#><img src="contributions.svg"></a>
-
 My name is **Miguel Siesto**, web developer based in **Madrid**.
 
 I'm a big fan of **React** and I'm very excited to be learning something new every day.
