@@ -23,7 +23,7 @@ After much reflection I have chosen to dare and start my way in the world of web
 - [Gatsby](https://www.gatsbyjs.com/) for SEO friendly static sites
 - [react-query](https://tanstack.com/query/v4/?from=reactQueryV3&original=https://react-query-v3.tanstack.com/) for asynchronous state management
 - [redux](https://redux.js.org/) for global state management
-- BACKEND: npm, Node, Express, MongoDB and Mongoose.
+- **BACKEND**: npm, Node, Express, MongoDB and Mongoose.
 
 ### ⚡ My current frontend stack
 - React ❤️
